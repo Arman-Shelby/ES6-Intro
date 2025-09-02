@@ -22,3 +22,8 @@ property name change er jonno (: colon ) sign use korte hobe .. jokhon initialis
 
 > Object.seal() prevents the addition or deletion of attributes of an existing object  But  modification of attributes of objects works 
 
+
+
+
+> loop korar jonno string e for of use kora laage and object e for in 
+
